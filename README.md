@@ -130,3 +130,5 @@ Além disso, os monitores podem implementar diferentes semânticas de signal() e
 A implementação de monitores também se beneficia de um design modular, onde o encapsulamento dos dados protege contra acessos indevidos e torna o código mais fácil de manter e evoluir. Essa abordagem reduz significativamente a complexidade da programação concorrente, ao mesmo tempo em que oferece mecanismos poderosos para coordenar a execução de múltiplas threads. Por meio desses recursos, os monitores garantem que a integridade dos dados seja preservada, mesmo quando muitas operações concorrentes estão em andamento.
 
 Em síntese, os monitores elevam o nível de abstração na programação concorrente, integrando os mecanismos de sincronização diretamente na estrutura do código. Essa integração não só simplifica a implementação dos algoritmos concorrentes, mas também proporciona uma segurança adicional, ao encapsular os dados e proteger o acesso de forma automática. Dessa forma, os monitores são essenciais para o desenvolvimento de sistemas complexos, onde a simplicidade e a robustez são indispensáveis.
+
+---
